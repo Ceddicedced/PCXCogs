@@ -1,0 +1,28 @@
+{
+    "name": "AutoRoom Extended",
+    "author": [
+        "Ceddicedcedced"
+    ],
+    "short": "#TODO ",
+    "description": "#TODO",
+    "install_msg": "#TODO",
+    "requirements": [
+        "jinja2"
+    ],
+    "tags": [
+        "audio",
+        "auto",
+        "automated",
+        "automatic",
+        "channel",
+        "room",
+        "voice"
+    ],
+    "min_bot_version": "3.5.0",
+    "min_python_version": [
+        3,
+        11,
+        0
+    ],
+    "end_user_data_statement": "This cog does not persistently store data or metadata about users."
+}
